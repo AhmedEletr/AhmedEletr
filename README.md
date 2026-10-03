@@ -1,8 +1,18 @@
 <div align="center">
 
-  <h1>💫 Hi there, I'm Ahmed Helmy Eletr 👋</h1>
-  <p><b>Front-End Engineer | AI Developer | Junior Back-End Developer</b></p>
-  <p>📍 Egypt • 17 Years Old • 5+ Years of Experience</p>
+  <!-- 🌟 HERO BANNER (Paste your Gemini banner image URL below) -->
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Ahmed Helmy Eletr Banner" width="100%" />
+
+  <br/><br/>
+
+  <!-- ⚡ Dynamic Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ahmed+Helmy+Eletr+%F0%9F%91%8B;Front-End+Engineer+%26+UI%2FUX+Specialist;AI+Developer+%26+Machine+Learning+Builder;17+Years+Old+%E2%80%A2+5%2B+Years+of+Coding+Experience" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    📍 <b>Egypt</b> • Building intelligent, high-performance web products
+  </p>
 
   <!-- 🌐 Socials -->
   <p>
@@ -13,29 +23,43 @@
     <a href="mailto:a.helmyeletr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
+  <!-- 👁️ Profile Views Counter (FIXED) -->
+  <img src="https://komarev.com/ghpvc/?username=AhmedEletr&color=7289da&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 ---
 
 ### 🚀 About Me
 
-Passionate developer building fast, sleek user interfaces and integrating intelligent AI systems. Creator of **PharmaGo**, **MindVerse AI**, **MindChat**, **MindGrid**, and **MindCraft**.
+Passionate developer building fast, sleek user interfaces and integrating intelligent AI systems. I bridge modern front-end design with real-world AI pipelines.
 
-- 🔭 **I’m currently working on:** Scaling the **MindVerse AI** ecosystem and refining **MindCraft AI**.
-- 🌱 **I’m currently learning:** Advanced LLM orchestration, microservices architecture, and deep cloud optimization on GCP.
-- 👯 **I’m looking to collaborate on:** Open-source AI tools, innovative Next.js/React SaaS apps, and EdTech platforms.
-- 🤝 **I’m looking for help with:** Advanced model fine-tuning and production-grade DevOps for AI pipelines.
+- 🔭 **Currently working on:** Scaling the **MindVerse AI** ecosystem and refining **MindCraft AI**.
+- 🌱 **Currently learning:** Advanced LLM orchestration, microservices architecture, and deep GCP optimizations.
+- 👯 **Looking to collaborate on:** Open-source AI tools, innovative Next.js/React SaaS apps, and EdTech platforms.
+- 🤝 **Looking for help with:** Advanced model fine-tuning and production-grade DevOps for AI pipelines.
 - 💬 **Ask me about:** React.js, Next.js, Vue.js, React Native (Expo), Node.js, LangChain, OpenCV, and Appwrite/Supabase.
 - ⚡ **Fun fact:** I wrote my first line of code at age 12 and have shipped full-stack & AI products for 5 years before finishing high school!
 
 ---
 
+### 🌟 Featured Projects
+
+| Project | Description | Core Stack |
+| :--- | :--- | :--- |
+| **PharmaGo** | Digital pharmaceutical & logistics smart delivery platform | React / Node.js / DB |
+| **MindVerse AI** | Multi-modal intelligent automation & AI ecosystem | Python / AI / Next.js |
+| **MindChat APP** | Real-time AI chat client with dynamic context memory | React / AI APIs / Node |
+| **MindGrid** | AI-powered EdTech platform revolutionizing personalized learning | Full-Stack / AI |
+| **MindCraft** | Suite of creative tools powered by Generative AI | Python / Web UI |
+
+---
+
 ### 💻 Tech Stack & Skills
 
-<details open>
-<summary><b>Languages & Scripting</b></summary>
-<br>
+<div align="center">
 
+#### 🖥️ Languages & Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -48,15 +72,8 @@ Passionate developer building fast, sleek user interfaces and integrating intell
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>Front-End & Mobile Development</b></summary>
-<br>
-
+#### 🎨 Front-End & Mobile Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -68,12 +85,7 @@ Passionate developer building fast, sleek user interfaces and integrating intell
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>Back-End, Cloud & Databases</b></summary>
-<br>
-
+#### ⚙️ Back-End & Cloud
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -85,19 +97,10 @@ Passionate developer building fast, sleek user interfaces and integrating intell
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>Artificial Intelligence & Data Science</b></summary>
-<br>
-
+#### 🧠 Artificial Intelligence & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -107,50 +110,42 @@ Passionate developer building fast, sleek user interfaces and integrating intell
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>Tools, Platforms & Others</b></summary>
-<br>
-
+#### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?style=for-the-badge&logo=ffmpeg&logoColor=5cb85c)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
-</details>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AhmedEletr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Ahmed's GitHub Stats" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=AhmedEletr&theme=dark&hide_border=false" alt="Ahmed's Streak Stats" height="160" />
-  <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedEletr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.shion.dev/api?username=AhmedEletr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" height="175" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=AhmedEletr&theme=tokyonight&hide_border=true" alt="Ahmed's Streak Stats" height="175" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedEletr&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=AhmedEletr&icon=0&color=0" alt="Profile Views" />
-  </a>
+  <sub>Crafted with passion by <b>Ahmed Helmy Eletr</b> 🚀</sub>
 </div>
