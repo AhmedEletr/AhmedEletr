@@ -1,25 +1,26 @@
 <div align="center">
 
-  <!-- 🌟 Banner with Rounded Corners -->
+  <!-- 🌟 Banner with Real Curved Corners (GitHub Compatible) -->
   <img 
-    src="https://lh3.googleusercontent.com/d/1AN_d4r3Y4KIaVXANga4rrC-6Ysb46Eiw" 
+    src="https://images.weserv.nl/?url=https%3A%2F%2Flh3.googleusercontent.com%2Fd%2F1AN_d4r3Y4KIaVXANga4rrC-6Ysb46Eiw&shape=square&radius=25" 
     alt="Ahmed MyDream Banner" 
     width="100%" 
-    style="border-radius: 16px; display: block;" 
   />
 
-  <br/>
+  <br/><br/>
 
-  <!-- ⚡ Dynamic Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E0E0E0&center=true&vCenter=true&width=600&lines=Ahmed+Helmy+Eletr+(Ahmed+MyDream);Front-End+Engineer+%26+UI%2FUX+Specialist;AI+Developer+%26+Machine+Learning+Builder;17+Years+Old+%E2%80%A2+5%2B+Years+of+Experience" alt="Typing SVG" />
-  </a>
+  <!-- ⚡ Dynamic Light/Dark Typing Header -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=Ahmed+Helmy+Eletr+(Ahmed+MyDream);Front-End+Engineer+%26+UI%2FUX+Specialist;AI+Developer+%26+Machine+Learning+Builder;17+Years+Old+%E2%80%A2+5%2B+Years+of+Experience" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F2328&center=true&vCenter=true&width=600&lines=Ahmed+Helmy+Eletr+(Ahmed+MyDream);Front-End+Engineer+%26+UI%2FUX+Specialist;AI+Developer+%26+Machine+Learning+Builder;17+Years+Old+%E2%80%A2+5%2B+Years+of+Experience" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F2328&center=true&vCenter=true&width=600&lines=Ahmed+Helmy+Eletr+(Ahmed+MyDream);Front-End+Engineer+%26+UI%2FUX+Specialist;AI+Developer+%26+Machine+Learning+Builder;17+Years+Old+%E2%80%A2+5%2B+Years+of+Experience" alt="Typing SVG" />
+  </picture>
 
   <p align="center">
     📍 <b>Egypt</b> • Building intelligent, sleek & high-performance software
   </p>
 
-  <!-- 🌐 Minimal Dark Socials -->
+  <!-- 🌐 Socials -->
   <p>
     <a href="https://discord.gg/ahmedmydream"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
     <a href="https://facebook.com/ahmedhelmyeletr"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
@@ -150,23 +151,29 @@ Passionate software engineer building fast, intuitive user interfaces and integr
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <!-- Clean, muted dark stats (Non-colorful) -->
-        <img src="https://github-readme-stats.shion.dev/api?username=AhmedEletr&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" height="175" />
-      </td>
-      <td>
-        <!-- Clean, muted streak stats (Non-colorful) -->
-        <img src="https://streak-stats.demolab.com/?user=AhmedEletr&theme=github_dark&hide_border=true" alt="Ahmed's Streak Stats" height="175" />
-      </td>
-    </tr>
-  </table>
 
-  <br>
+  <!-- Dual-Theme Stats (Automatic Light / Dark switch) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=AhmedEletr&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=AhmedEletr&theme=default&show_icons=true&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.shion.dev/api?username=AhmedEletr&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" height="165" />
+  </picture>
 
-  <!-- Clean, muted languages stats (Non-colorful) -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedEletr&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AhmedEletr&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=AhmedEletr&theme=clean&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=AhmedEletr&theme=clean&hide_border=true" alt="Ahmed's Streak Stats" height="165" />
+  </picture>
+
+  <br/><br/>
+
+  <!-- Dual-Theme Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedEletr&theme=github_dark&hide_border=true&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedEletr&theme=default&hide_border=true&layout=compact" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedEletr&theme=default&hide_border=true&layout=compact" alt="Top Languages" />
+  </picture>
+
 </div>
 
 ---
