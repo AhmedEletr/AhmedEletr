@@ -31,7 +31,7 @@
 
   <!-- 👁️ Profile Views Counter -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=AhmedEletr&color=212126&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=AhmedEletr" alt="Profile Views" />
   </p>
 
 </div>
