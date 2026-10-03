@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- 🌟 Banner with Real Curved Corners (GitHub Compatible) -->
+  <!-- 🌟 Banner with exactly 20px Curved Corners -->
   <img 
-    src="https://images.weserv.nl/?url=https%3A%2F%2Flh3.googleusercontent.com%2Fd%2F1AN_d4r3Y4KIaVXANga4rrC-6Ysb46Eiw&shape=square&radius=25" 
+    src="https://images.weserv.nl/?url=https%3A%2F%2Flh3.googleusercontent.com%2Fd%2F1AN_d4r3Y4KIaVXANga4rrC-6Ysb46Eiw&shape=square&radius=20" 
     alt="Ahmed MyDream Banner" 
     width="100%" 
   />
