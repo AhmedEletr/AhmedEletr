@@ -28,12 +28,6 @@
     <a href="https://reddit.com/user/AhmedMyDream"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" /></a>
     <a href="mailto:a.helmyeletr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
-
-  <!-- 👁️ Profile Views Counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=AhmedEletr" alt="Profile Views" />
-  </p>
-
 </div>
 
 ---
