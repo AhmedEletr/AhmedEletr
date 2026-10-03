@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- 🌟 Banner with exactly 20px Curved Corners -->
+  <!-- 🌟 Banner (Normal / Straight Edges) -->
   <img 
-    src="https://images.weserv.nl/?url=https%3A%2F%2Flh3.googleusercontent.com%2Fd%2F1AN_d4r3Y4KIaVXANga4rrC-6Ysb46Eiw&shape=square&radius=20" 
+    src="https://lh3.googleusercontent.com/d/1AN_d4r3Y4KIaVXANga4rrC-6Ysb46Eiw" 
     alt="Ahmed MyDream Banner" 
     width="100%" 
   />
